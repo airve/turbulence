@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <title>water</title>
+  <style media="(prefers-color-scheme: dark)">
+    circle { fill: aquamarine }
+  </style>
+  <circle fill="deepskyblue" cx="50%" cy="50%" r="50%" />
+</svg>
